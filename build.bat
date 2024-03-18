@@ -1,4 +1,5 @@
 @echo off
+setlocal EnableDelayedExpansion
 
 :: Вид сборки / суффикс в названии каталога сборки
 ::
