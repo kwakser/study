@@ -10,5 +10,6 @@ add_subdirectory(bubble_sort_mf)
 add_subdirectory(scl)
 add_subdirectory(travell)
 add_subdirectory(unit_test_example)
+add_subdirectory(structures)
 
 set(CMAKE_SUPPRESS_REGENERATION true)
